@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Airline_Reservation_Schema" id="2AE6CB66-0286-07F3-B52C-649565F2742E" version="3.5">
+<createdBy>j&amp;j lappy</createdBy>
+<createdTime>2018-11-18 02:25:02 UTC</createdTime>
+<ownerDesignName>Airline_Reservation_Schema</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2AE6CB66-0286-07F3-B52C-649565F2742E</designId>
+</OSDM_Design>
